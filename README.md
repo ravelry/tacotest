@@ -7,14 +7,9 @@ Use this page to check to see  if you are able to reach various Ravelry image an
 |   |                 Hostname                 |                                Taco                                 |
 |---|-----------------------------------|------------------------------------------------------------------|
 | 1 | ravelry.com                   | ![Taco](https://www.ravelry.com/images/emo/taco.png)              |
-| 2 | style.ravelry.com                 | ![Taco](https://style.ravelry.com/images/emo/taco.png)       |
-| 3 | style.ravelrycache.com            | ![Taco](https://style.ravelrycache.com/images/emo/taco.png)       |
-| 4 | style-cdn.ravelrycache.com        | ![Taco]( https://style-cdn.ravelrycache.com/images/emo/taco.png)  |
-| 4 | style-cdn2.ravelrycache.com        | ![Taco]( https://style-cdn2.ravelrycache.com/images/emo/taco.png)  |
-| 5 | images4.ravelrycache.com          |   ![Taco](https://images4.ravelrycache.com/test/taco.png)         |     
-| 6 | images4-b.ravelrycache.com          |   ![Taco](https://images4-b.ravelrycache.com/test/taco.png)         |     
-| 7 | images4-e.ravelrycache.com          |   ![Taco](https://images4-e.ravelrycache.com/test/taco.png)         |     
-| 8 | images4-cdn.ravelrycache.com      | ![Taco](https://images4-cdn.ravelrycache.com/test/taco.png)       |
-| 9 | images4-cdn2.ravelrycache.com      | ![Taco](https://images4-cdn2.ravelrycache.com/test/taco.png)       |
+| 2 | style-cdn2.ravelrycache.com        | ![Taco]( https://style-cdn2.ravelrycache.com/images/emo/taco.png)  |   
+| 3 | images4-cdn2.ravelrycache.com      | ![Taco](https://images4-cdn2.ravelrycache.com/test/taco.png)       |
+| 4 | images4-b.ravelrycache.com          |   ![Taco](https://images4-b.ravelrycache.com/test/taco.png)         |     
+| 5 | images4-e.ravelrycache.com          |   ![Taco](https://images4-e.ravelrycache.com/test/taco.png)         |     
 
 
